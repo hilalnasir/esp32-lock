@@ -1,0 +1,15 @@
+# Build files
+/build/
+/sdkconfig
+/sdkconfig.old
+/CMakeCache.txt
+
+# VSCode settings
+.vscode/
+
+# Python virtual environments
+.python_env/
+/.espressif/
+
+# macOS system files
+.DS_Store

@@ -13,3 +13,8 @@
 
 # macOS system files
 .DS_Store
+
+# AWS IoT certificates
+aws_root_ca.pem
+client.crt
+client.key
